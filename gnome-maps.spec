@@ -1,11 +1,11 @@
 Summary:	Map viewer application for GNOME.
 Name:		gnome-maps
-Version:	3.14.0
+Version:	3.14.1
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/gnome-maps/3.14/%{name}-%{version}.tar.xz
-# Source0-md5:	6a0f4573f6fc87ed01870f2ecb632b25
+# Source0-md5:	b2f05db0511f8fe1225478c7819ce00f
 URL:		https://live.gnome.org/Design/Apps/Documents
 BuildRequires:	autoconf
 BuildRequires:	automake
